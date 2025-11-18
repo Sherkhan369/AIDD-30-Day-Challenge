@@ -1,6 +1,6 @@
 # Part A — Theory (Short Questions)
 
-## Nine Pillars Understanding
+## Nine Pillars Understanding  
 1. **Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks
 better for your growth as a system architect?**
 
@@ -9,23 +9,23 @@ better for your growth as a system architect?**
  2. **Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped Developer**
 
 
-**Clarity Skills**
+**Clarity Skills**  
 We learn how to define problems clearly so AI can understand them easily.
 
 
-**Architecture Design & System Thinking**
+**Architecture Design & System Thinking**  
 We learn to see the system from above — its components, flows, and boundaries.
 
 
-**AI-Assisted Coding**
+**AI-Assisted Coding**  
  We use AI as a coding partner to generate complex features. We give AI clear specifications, and it works based on those instructions.
 
 
-**Rule-Based Thinking**
+**Rule-Based Thinking**  
  We learn how to apply rules, limits, and standards inside a system.
 
 
-**System Mastery**
+**System Mastery**  
 We control the entire AI workflow. In this way, we work like a system architect and an AI orchestrator at the same time.
 
 
@@ -36,15 +36,15 @@ We control the entire AI workflow. In this way, we work like a system architect 
    
  Vibe Coding creates problems because the developers create projects, without any structured plan. the project usually After a week becomes crash, which maintain hard, and difficult to scale.
 
-3. **How would Specification-Driven Development prevent those problems?**
+3. **How would Specification-Driven Development prevent those problems?**  
 Specification-Driven Development prevents problems by creating a clear blueprint before writing any code. AI and the developer follow the same structured plan, which keeps the system consistent, scalable, and easy to maintain.
 
-4. ## Architecture Thinking
+5. ## Architecture Thinking   
 **How does architecture-first thinking change the role of a developer in AIDD?**
 
 In AIDD (AI-Driven Development), developer transforms from a code typist into a system designer and orchestrator. developer provive clear specification and focuses on defining how the system behaves, how components interact, and how AI agents should collaborate to build the product.
 
-**Explain why developers must think in layers and systems instead of raw code.**
+**Explain why developers must think in layers and systems instead of raw code.**  
 
 Developers need to think in layers and systems because modern software is very big and connected. If you only think line by line, everything becomes confusing. Thinking in layers makes the project clear, simple to manage, easy to grow, and it also helps AI understand how your whole project is organized.
 
@@ -90,4 +90,5 @@ B. Deep in only one field
 C. **Deep skills in multiple related domains**
 
 D. Works without AI tools
+
 
