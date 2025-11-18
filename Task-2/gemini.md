@@ -84,11 +84,11 @@ B. **Handle repetitive tasks so dev focuses on design & problem-solving**
 C. Make coding faster but less reliable  
 D. Make coding optional  
 
-5. **What defines an M-Shaped Developer?**
-A. Knows little about everything
-B. Deep in only one field
-C. **Deep skills in multiple related domains**
-
+5. **What defines an M-Shaped Developer?**  
+A. Knows little about everything  
+B. Deep in only one field  
+C. **Deep skills in multiple related domains**  
 D. Works without AI tools
+
 
 
