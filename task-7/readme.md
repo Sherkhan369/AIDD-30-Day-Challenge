@@ -3,7 +3,7 @@
 SPECKit Plus is a framework that uses slash commands, templates, and project structure.
 It helps you give clear instructions to AI so you get better, consistent results.
 
-# constitution — The basic rules of your project
+# constitution  The basic rules of your project
 
 
 This is the main foundation of your project.
@@ -13,7 +13,7 @@ your project also has basic rules that never change.
 Meaning:
 It defines the core requirements that every version of the project must follow.
 
-# specify — Tell the AI exactly what you want
+# specify  Tell the AI exactly what you want
 
 
 Here you write clear instructions for the AI.
@@ -22,7 +22,7 @@ You explain your idea, what you want to make, and how it should work.
 Meaning:
 This is the specifications folder where you define the project clearly.
 
-# plan — Create the plan to build the project
+# plan Create the plan to build the project
 
 
 After knowing the idea, now you create a step-by-step plan.
@@ -39,7 +39,7 @@ Design decisions – why you choose certain ways
 Meaning:
 It tells the AI how to complete the specifications.
 
-# tasks — Break big work into small jobs
+# tasks  Break big work into small jobs
 
 
 You cannot do everything at one time.
